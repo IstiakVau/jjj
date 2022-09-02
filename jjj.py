@@ -1,2 +1,2 @@
-import
+import pro
 pro()
